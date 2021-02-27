@@ -341,5 +341,5 @@ Here's a video made by my friend [Olli](https://twitter.com/R4MSE5), it's all ab
 
 ### Conclusion <span id="sec7"></span>
 
-Pass by Value and Pass by References are essential concepts one must understand if you'll like to advance your skills using JavaScript. I hope the article was helpful, please do leave comments below, if you have any questions shoot. Thanks for Reading. If you'll to contact me, you can [here @twitter](https://twitter.com/FavouriteJome1)
+Pass by Value and Pass by References are essential concepts one must understand if you'd like to advance your skills using JavaScript. I hope the article was helpful, please do leave comments below, if you have any questions shoot. Thanks for Reading. If you'd like to contact me, you can [here @favouritejome1](https://twitter.com/FavouriteJome1).
 
