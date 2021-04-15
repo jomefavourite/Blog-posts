@@ -1,4 +1,4 @@
-## CGPA Result Forecaster
+## CGPA Result Forecaster - Hackathon Project
 
 Hello 👋, here's my submission for Hashnode Hackathon Powered by Vercel. It's a __Grade Point Average (GPA)__ and __Cumulative Grade Point Average (CGPA)__ calculator with a special feature which is to forecast the average score a student needs to end up with a 1st Class, 2nd Class Upper/ Lower per semester from his/her known scores.
 
