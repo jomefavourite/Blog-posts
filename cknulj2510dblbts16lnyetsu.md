@@ -1,4 +1,4 @@
-## Let build a game using JavaScript
+## Let's build a game using JavaScript
 
 Hello 👋, In this article, I'll share how I built my first game written in Javascript and my thought process in making the game. Hope you'll follow along and learn something new. Okay then, let's go over the rules of the game for us to understand the game.
 
