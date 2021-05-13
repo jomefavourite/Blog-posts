@@ -1,6 +1,6 @@
 ## Callback Functions and Higher-Order Functions
 
-Hello! This article is a follow up with my series [Javascript: The Hard Parts v2 Cover](https://favouritejome.hashnode.dev/series/javascript-the-hard-parts-v2-cover) from a course I took from [Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) By [Will Sentance](https://twitter.com/willsentance).
+Hello! This article is a follow up with my series [JavaScript: The Hard Parts v2 Cover](https://favouritejome.hashnode.dev/series/javascript-the-hard-parts) from a course I took from [Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) By [Will Sentance](https://twitter.com/willsentance).
 
 ---
 
