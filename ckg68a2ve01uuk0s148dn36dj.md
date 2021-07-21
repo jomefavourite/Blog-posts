@@ -1,4 +1,4 @@
-## Asynchronous JavaScript
+## What's Asynchronous JavaScript‽
 
 
 Hello! Welcome back to my series, [JavaScript: The Hard Part cover](https://favouritejome.hashnode.dev/series/javascript-the-hard-parts). If this is my first post in the series you're reading I'll advise you to take a look at the previous articles to follow up with the series.
@@ -17,7 +17,8 @@ In this article, I'll go through Asynchronous Javascript, Web API, Callback queu
 
 Let's dive into the topic:
 
-**Asynchronous** simply means happening at the same time which is applicable to **Asynchronous Javascript**.
+**Asynchronous** simply means having different actions happening at the same time in any other without waiting for each other 
+ which is applicable to **Asynchronous Javascript**.
 
 You should note Javascript is actually a **"Synchronous"** language whereby you might have heard the saying _"JavaScript is a Single-threaded language"_.
 
@@ -31,13 +32,19 @@ Well, that's where "Asynchronous" comes into play, which allows Javascript to pe
 
 ![mindblow](https://media.giphy.com/media/xT0BKCxTX64gcYNuwg/giphy.gif)
 
-For instance; On Twitter, you click on the like button meanwhile your internet speed is slow and Twitter hasn't recorded your click. Also, you click on another like button even though the first one hasn't been acknowledged. And then you comment on a post and send it.
+For instance; On Twitter, you click on the like button meanwhile your internet speed is slow and Twitter hasn't acknowledged your click. Also, you click on another like button even though the first one hasn't been acknowledged. And then you comment on a post and send it.
+
+> Note: you've done three operations now, clicking on two like buttons and send a comment. Also all the operations are pending meaning the action hasn't been saved on Twitter database.
 
 ![clickclick](https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif)
 
-You've done three things now, none of them has been acknowledged by Twitter because of the poor internet connection. Later on, the internet becomes good, the first like will be acknowledged then the next before the comment. Meanwhile, while the internet was poor and the Feeds were loaded and you were able to interact with Twitter and not have to wait for your likes to be acknowledged before further interactions.
+You've done three things now, none of them has been acknowledged by Twitter because of the poor internet connection. 
 
-From the scenario above, it's all Asynchronous Javascript that making this work. If not you'll have to wait for the first instruction before the next.
+Later on, the internet becomes good, the first like button you clicked on will be acknowledged then the next before the comment.
+
+Meanwhile, while the internet was poor and the feeds were loaded and you were able to interact with Twitter and not have to wait for your likes to be acknowledged before further interactions.
+
+From the scenario above, it's all **Asynchronous Javascript** that making this work. If not you'll have to wait for the first instruction before the next.
 
 ## What does Asynchronous JavaScript entails
 
