@@ -68,7 +68,7 @@ As it is well known, JavaScript runs on the Web Browser and the Browser has some
 - Network Request
 - DOM (Document Object Model) and many more
 
-All these features can be interacted with using Javascript with given functions known as **Facade Functions** by <cite>[Will Sentance](https://twitter.com/willsentance)</cite>
+All these features can be interacted with using Javascript with given functions which <cite>[Will Sentance](https://twitter.com/willsentance)</cite> referred to as **Facade Functions** in the course [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 Facade Functions include:
 
