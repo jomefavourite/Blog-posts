@@ -68,7 +68,7 @@ As it is well known, JavaScript runs on the Web Browser and the Browser has some
 - Network Request
 - DOM (Document Object Model) and many more
 
-All these features can be interacted with using Javascript with given functions known as **Facade Functions**.
+All these features can be interacted with using Javascript with given functions known as **Facade Functions** by <cite>[Will Sentance](https://twitter.com/willsentance)</cite>
 
 Facade Functions include:
 
@@ -105,7 +105,7 @@ Let's look at the statements together
 
 - Firstly, a function `printHello()` is stored in the Global Memory.
 - `setTimeout(printHello,0)` this line of code is saying send `printHello` which is a label for `printHello()` function to the WEB API feature (Callback queue). It took 0 ms for `printHello` to be sent to Callback queue.
-- "First" is then logged to the browsers console.
+- "First" is then logged to the browser's console.
 
 > Note: Even though the console doesn't belong to Javascript itself and it's part of the WEB API, it's **synchronous**.
 
