@@ -370,6 +370,29 @@ div [role="menuitemradio"]:focus {
 ```
 Notice the use of the `@keyframe` rule from the snippet above. So it's possible to add animations also using Radix which is super cool.
 
+Also, from the CSS snippet, you'll notice the use of attribute selectors such as:
+
+```css
+  [data-state="open"][data-side="top"] {
+    animation-name: slideDownAndFade;
+  }
+
+  [data-state="open"][data-side="right"] {
+    animation-name: slideLeftAndFade;
+  }
+  [data-state="open"][data-side="bottom"] {
+    animation-name: slideUpAndFade;
+  }
+  [data-state="open"][data-side="left"] {
+    animation-name: slideRightAndFade;
+  }
+```
+The reason why there are various alternatives to the `data-side` attribute which is added to the `DropdownMenu.Component` element is because depending on the space available for the dropdown, it'll adjust to the viewport to either show at the top, right, left, bottom view, pretty much like you'll have it on Window 11.
+
+Eg: 
+
+![React App (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638710622980/W5Rc5ISbA.png)
+
 %[https://codesandbox.io/s/sample3-2cnwt?file=/src/components/WindowsDropdown.js:0-1240]
 
 ## WindowsDropdown Conclusion
@@ -378,6 +401,9 @@ Here's the complete version for the windows dropdown below. Feel free to go thro
 
 %[https://codesandbox.io/s/windows-dropdown-c5ejj?file=/src/components/WindowsDropdown.js]
 
+## Resources
+- [Radix Docs](https://www.radix-ui.com/docs/primitives/components/dropdown-menu)
+- [Next.js Conference - So You Think You Can Build A Dropdown?](https://www.youtube.com/watch?v=pcMYcjtWwVI&t=544s) 
 
 
 
