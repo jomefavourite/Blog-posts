@@ -119,7 +119,7 @@ Sitting down all day, leaving the office late mostly around 6 pm - 7 pm, facing 
 
 ### 7. How to be a team player
 
-Learnt how to listen to others opinions, instead of just jumping right into coding, how to comport what I say, how does it affect my colleagues, accepting when it totally my fault when something is wrong.
+Learnt how to listen to others opinions, instead of just jumping right into coding, how to comport what I say, how does it affect my colleagues, accepting when it is totally my fault when something is wrong.
 
 I got to collaborate with the backend developer, getting API endpoint from him, what parameter/data should be sent back to the backend, how's the API structured and stuff like that.
 
@@ -141,7 +141,9 @@ In the end, I think I've acquired a good amount of knowledge from the company. I
 
 So I'll say, go for what you want, make sure it's a place you can learn something new every day, tackle challenging problems and eventually solve them.
 
-I'm truly grateful to everyone that helped me in the process of looking for an IT placement, my parents, friends and family, grateful to people on Twitter that sent me applications to apply. Thank you all.
+I had a wonderful team to work with, people I could learn from, a wonderful supervisor that wanted me to grow and learn, a CEO that leads by example, overall it was a wonderful experience working at the company. Grateful for the push and complicated task I was assigned 😏. Thank you [Vasiti.com](https://vasiti.com)
+
+I'm also truly grateful to everyone that helped me in the process of looking for an IT placement, my parents, friends and family, grateful to people on Twitter that sent me applications to apply. Thank you all.
 
 **Thanks for reading ✌**
 
