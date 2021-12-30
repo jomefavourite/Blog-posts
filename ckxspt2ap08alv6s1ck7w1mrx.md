@@ -129,7 +129,7 @@ Collaborated with the designer, the other Frontend developer and the Full-stack 
 
 Yeah, this is something I learnt while working since this was my very first job and a means to make money from my web skills. 
 
-Waking up early, preparing for work by 6 am and being on the road just to get to work before 9 am and still getting home late mostly around 8 pm-ish or much more later every working day isn't easy. I applause my parents for working and providing for me and my siblings, money is really hard to get.
+Waking up early, preparing for work by 6 am and being on the road just to get to work before 9 am and still getting home late mostly around 8 pm-ish or much more later every working day isn't easy. I applaud my parents for working and providing for me and my siblings, money is really hard to get.
 
 ---
 
