@@ -11,13 +11,13 @@ So in this article, we'll look into a feature we developers would probably use f
 - Basic knowledge of Git
 - Basic knowledge of VS Code interface
 
-## What's the Source Control or the Version Control <span id="sourcecontrol"></span>
+## What's the Source Control or the Version Control
 
 The Source Control or Version Control is a system used to manage all activities carried out on a computer program which is also referred to as a human-readable program known as the **source code**.
 
 > If you'll like to read more about what Source Control or Version Control is, please do [here](https://en.wikipedia.org/wiki/Version_control).
 
-## Source Control Panel on VS code <span id="sourcepanel"></span>
+## Source Control Panel on VS code 
 
 VS Code makes use of Git right out of the box as its primary Version Control system. Meaning that you'll need Git installed on your PC before making use of Git through the Source Control sidebar on VS Code.
 
