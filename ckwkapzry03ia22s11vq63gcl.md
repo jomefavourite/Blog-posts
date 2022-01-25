@@ -41,7 +41,7 @@ sudo apt install git
 
 Now that we've got Git installed on our various machines, we need to config Git to our machine. Don't worry, this step is a one-time process.
 
-### Setting up Git for VS code <span id="setupgit"></span>
+### Setting up Git for VS code
 
 Firstly, we need to set up our identity through the terminal which can be opened/closed on VS code by using `(Ctrl + J)`. Our username and email address are what is needed to set up our identity for Git.
 
