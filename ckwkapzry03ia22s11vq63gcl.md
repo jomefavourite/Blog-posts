@@ -139,7 +139,9 @@ When a project is initialized with Git either by clicking on the **Initialize Re
 
 Let's go over some features, which are accessed by icons on the files.
 
-**1 Discard Changes:** discarding changes on a file or files which simply means removing files from the **changes dropdown**, deleting all changes made to the files that haven't been committed. In this case, we've not committed our files and there still in the **Untracked State** so if the files were to be discarded all the files will be deleted, so be really sure you want to discard a file or the entire files to be committed.
+### Discard Changes
+
+Discarding changes on a file or files simply means removing the file/files from the **changes dropdown**, deleting all changes made to the files that haven't been committed. In this case, we've not committed our files and there still in the **Untracked State** so if the files were to be discarded all the files will be deleted, so be really sure you want to discard a file or the entire files to be committed.
 
 > **Note:** To discard changes, you make use of the hook-like icon shown below:
 
@@ -151,7 +153,9 @@ Let's go over some features, which are accessed by icons on the files.
 
 > **Note:** Each file underneath the **Changes Dropdown** also have the Discard icon
 
-**2 Stage Changes:** Stage changes means that the file or the files are to be tracked by git. At this point, the file(s) are in the **Tracking State**, which means git recognizes that these files would be committed.
+### Stage Changes
+
+Stage changes mean that the file or the files are to be tracked by git. At this point, the file(s) are in the **Tracking State**, which means git recognizes that these files would be committed.
 
 > **Note:** The files in the Staged Changes dropdown only shows those changes/files to be committed or rather that are being tracked by git
 
