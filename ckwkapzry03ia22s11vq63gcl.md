@@ -2,7 +2,7 @@
 
 Visual Studio Code (VS Code) is one of the most used Integrated Development Environment (IDE) with lots of features, which most users don't know about (including myself, I can't say I've used all the features that VS Code provides 😃).
 
-So in this article, we'll look into a feature we developers would probably use frequently in VS Code: Version Control or known as Source Control in VS Code. Understanding some of the various operations it provides, how they translate to the Git commands and how the operations are useful for managing source control in VS Code.
+So in this article, we'll look into a feature we developers would probably use frequently in VS Code which is the Version Control feature called Source Control in VS Code. Understanding some of the various operations it provides, how they translate to the Git commands and how the operations are useful for managing source control in VS Code.
 
 > **Note:** Please feel free to jump around the Table of Content cause you might not need all the information if you already know about them, but you could read all and probably learn something new
 
@@ -125,7 +125,7 @@ Great! We've been able to completely get VS code up and running with Git and Git
 
 ## Recording Changes to Git
 
-When a project is initialized with Git either by clicking on the **Initialize Repository** or running the command `git init`, all the files and folders move to an **Untracked State (U)** shown underneath the **Changes Dropdown** at the Source Control Panel.
+When a project is initialized with Git either by clicking on the **Initialize Repository** or running the command `git init`, all the files or folders in the current directory move to an **Untracked State (U)** shown underneath the **Changes Dropdown** at the Source Control Panel.
 
 <center>
 
@@ -153,9 +153,9 @@ Let's go over some features, which are accessed by icons on the files.
 
 **2 Stage Changes:** Stage changes means that the file or the files are to be tracked by git. At this point, the file(s) are in the **Tracking State**, which means git recognizes that these files would be committed.
 
-> **Note:** The files in the Staged Changes dropdown only those changes/files will be committed.
+> **Note:** The files in the Staged Changes dropdown only shows those changes/files to be committed or rather that are being tracked by git
 
-Have you used or seen the command below before? If you have, great, all you do with the command is to tell git, hey, I'll like you to keep track of these files or a file.
+You must have used the command shown below if you've ever used git before.  All you're doing with the command is to tell git, hey, I'll like you to keep track of these files or a file, which means you're staging the file/files.
 
 ```bash
 git add <name of file>
