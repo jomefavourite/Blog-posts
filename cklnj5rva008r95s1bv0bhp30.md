@@ -84,7 +84,7 @@ At this point, we have different values initialised in both variables `name` and
 
 That's pretty much all on the concept Pass by Value.
 
-## What's Pass by Reference <span id="sec2"></span>
+## What's Pass by Reference
 
 Pass by Reference is majorly used with non-primitives types, such as 
 
@@ -319,7 +319,7 @@ Here's a video made by my friend [Olli](https://twitter.com/R4MSE5), it's all ab
 
 %[https://youtu.be/lAjshs4yLKg]
 
-### References to read further 
+## References to read further 
 
 - [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 - [ES6 object.assign() method with Example](https://hashnode.com/post/es6-objectassign-method-with-example-ck5me354b04ovqps150z8mvf1)
@@ -327,7 +327,7 @@ Here's a video made by my friend [Olli](https://twitter.com/R4MSE5), it's all ab
 - [10 ways to use the spread operator in JavaScript](https://h.daily-dev-tips.com/10-ways-to-use-the-spread-operator-in-javascript)
 - [Deep Copy vs. Shallow Copy in JavaScript](https://charandev.com/deep-copy-vs-shallow-copy-in-javascript)
 
-### Conclusion 
+## Conclusion 
 
 Pass by Value and Pass by References are essential concepts one must understand if you'd like to advance your skills using JavaScript. I hope the article was helpful, please do leave comments below, if you have any questions shoot. Thanks for Reading. If you'd like to contact me, you can [here @favouritejome1](https://twitter.com/FavouriteJome1).
 
