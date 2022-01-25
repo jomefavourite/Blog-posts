@@ -1,20 +1,8 @@
 ## Understanding Pass by Value and Pass by Reference
 
-The concept Pass by Value and Pass by Reference is one I ignored while learning vanilla JS, so when I was faced with a challenge I couldn't wrap my head around the concept. So in this article, I'll be giving instances to these concepts so as for us to grasp the basic of the concept once and for all.
+The concept Pass by Value and Pass by Reference is one I ignored while learning vanilla JS, so when I was faced with a challenge I couldn't wrap my head around the concept. So in this article, I'll be giving instances to these concepts so as for us to grasp the basics of the concept once and for all.
 
-## Table of Contents
-
-- [What's Pass by Value?](#sec1)
-- [What's Pass by Reference](#sec2)
-  - [Object](#sec3)
-  - [Array](#sec4)
-- [Cloning Objects](#sec5)
-- [References to read further](#sec6)
-- [Conclusion](#sec7)
-
---- 
-
-## What's Pass by Value? <span id="sec1"></span>
+## What's Pass by Value?
 
 Pass by Value is majorly used with primitive types (data types) such as:
 
@@ -105,7 +93,7 @@ Pass by Reference is majorly used with non-primitives types, such as
 
 > Note: Arrays are a special type of Object
 
-### Object  <span id="sec3"></span>
+### Object  
 
 When a value from a variable which is a non-primitive data type is __copied__ with the `=` sign into another variable, the address of that value is what’s actually copied over as if it were a primitive type. <br>
 Objects are copied by reference instead of by value.
@@ -157,7 +145,7 @@ Let's go over the above [example](#objexp) line by line:
 
 ---
 
-### Cloning Objects <span id="sec5"></span>
+### Cloning Objects 
 
 Now, that we know objects are Passed by Reference when copied as a value to another variable, so how do we stop this behaviour could be another question you might have. <br>
 Well, there're several ways to clone an object.
@@ -306,7 +294,7 @@ console.log(todos)
 
 ```
 
-### Array <span id="sec4"></span>
+### Array 
 
 An array is used to store similar data types and is a special object. Since it an object/special object it also follows the Passed by Reference concept.
 
@@ -331,7 +319,7 @@ Here's a video made by my friend [Olli](https://twitter.com/R4MSE5), it's all ab
 
 %[https://youtu.be/lAjshs4yLKg]
 
-### References to read further <span id="sec6"></span>
+### References to read further 
 
 - [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 - [ES6 object.assign() method with Example](https://hashnode.com/post/es6-objectassign-method-with-example-ck5me354b04ovqps150z8mvf1)
@@ -339,7 +327,7 @@ Here's a video made by my friend [Olli](https://twitter.com/R4MSE5), it's all ab
 - [10 ways to use the spread operator in JavaScript](https://h.daily-dev-tips.com/10-ways-to-use-the-spread-operator-in-javascript)
 - [Deep Copy vs. Shallow Copy in JavaScript](https://charandev.com/deep-copy-vs-shallow-copy-in-javascript)
 
-### Conclusion <span id="sec7"></span>
+### Conclusion 
 
 Pass by Value and Pass by References are essential concepts one must understand if you'd like to advance your skills using JavaScript. I hope the article was helpful, please do leave comments below, if you have any questions shoot. Thanks for Reading. If you'd like to contact me, you can [here @favouritejome1](https://twitter.com/FavouriteJome1).
 
