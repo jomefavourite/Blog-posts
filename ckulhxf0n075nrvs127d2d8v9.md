@@ -57,7 +57,7 @@ With this feature, students can easily see the score they need to work towards f
 The idea here is to add links to projects/articles/anything really, you might easily forget, this way you never lose a link you wanted to check out.
 
 > **Quick Note** <br>
-All the features above works both when a user signs in to the application and when they aren't signed in, the only caveat will be without signing in all information will be lost.
+All the features above work both when a user signs in to the application and when they aren't signed in, the only caveat will be without signing in all information will be lost.
 
 > **Also don't forget to give the project a star ⭐, if you think it's a fun project like I do 😎 - [https://github.com/jomefavourite/PlanDone](https://github.com/jomefavourite/PlanDone)**
 
