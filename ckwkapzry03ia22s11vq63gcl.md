@@ -1,8 +1,8 @@
 ## VS Code Version Control: Understanding the basics of  Git operations # 1
 
-Visual Studio Code (VS Code) is one of the most used Integrated Development Environment (IDE) with lots of features, which most users don't know about (including myself, I can't say I've used all the features that VS Code provides 😃).
+Visual Studio Code (VS Code) is one of the most used Integrated Development Environments (IDE) with lots of features which most users don't know about (including myself, I can't say I've used all the features that VS Code provides 😃).
 
-So in this article, we'll look into a feature we developers would probably use frequently in VS Code which is the Version Control feature called Source Control in VS Code. Understanding some of the various operations it provides, how they translate to the Git commands and how the operations are useful for managing source control in VS Code.
+So in this article, we'll look into a feature we developers would probably use frequently in VS Code: the Version Control feature called Source Control in VS Code. Understanding some of the various operations, how they translate to the Git commands and how the operations are useful for managing source control in VS Code.
 
 > **Note:** Please feel free to jump around the Table of Content cause you might not need all the information if you already know about them, but you could read all and probably learn something new
 
@@ -19,7 +19,7 @@ The Source Control or Version Control is a system used to manage all activities 
 
 ## Source Control Panel on VS code 
 
-VS Code makes use of Git right out of the box as its primary Version Control system. Meaning that you'll need Git installed on your PC before making use of Git through the Source Control sidebar on VS Code.
+VS Code uses Git right out of the box as its primary Version Control system, which means you'll need Git installed on your PC before using Git through the Source Control sidebar on VS Code.
 
 To get Git on your machines, follow the links below:
 
@@ -39,11 +39,11 @@ sudo apt install git
 
 [Download Git for Mac](http://git-scm.com/download/mac)
 
-Now that we've got Git installed on our various machines, we need to config Git to our machine. Don't worry, this step is a one-time process.
+Now that we've got Git installed on our various machines, we need to config Git to our machine. Don't worry; this step is a one-time process.
 
 ### Setting up Git for VS code
 
-Firstly, we need to set up our identity through the terminal which can be opened/closed on VS code by using `(Ctrl + J)`. Our username and email address are what is needed to set up our identity for Git.
+Firstly, we need to set up our identity through the terminal, which can be opened/closed on VS code by using `(Ctrl + J)`. Our username and email address are needed to set up our identity for Git.
 
 ```bash
 git config --global user.name "John Doe"
@@ -52,7 +52,7 @@ git config --global user.email johndoe@example.com
 
 > **Note:** Please do change `" John Doe"` to your username as it is on Github and also the email address `johndoe@example.com` to your email address
 
-The next step is to configure the code editor which is being used to access Git, since we're making use of VS code we input the command below into the terminal.
+The next step is configuring the code editor, which is being used to access Git; since we're using VS code, we input the command below into the terminal.
 
 ```bash
 git config --global core.editor "code --wait"
@@ -66,17 +66,17 @@ Lastly, we need to set up the default branch name. Recently, the default Git bra
 git config --global init.defaultBranch main
 ```
 
-That's it! Git is fully configured on our machines, we can now go back to explore the Source Control Panel.
+That's it! Git is fully configured on our machines; we can now go back to explore the Source Control Panel.
 
 > **Note:** [Read more about Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ## Working with the Source Control Panel
 
-Now that we know what Source Control is, let's dive into VS Code and explore the various options that it provides.
+Now that we know what Source Control is let's dive into VS Code and explore the various options that it provides.
 
-The source control can be accessed by using the keys `(Ctrl+Shift+G)` or by clicking the icon shown below.
+The source control panel can be accessed using the keys `(Ctrl+Shift+G)` or by clicking the icon below on VS code.
 
-While working on a directory/folder in VS code and having the source control sidebar opened, two options will be shown which are:
+While working on a directory/folder in VS code and having the source control sidebar opened, two options will be shown, which are:
 
 - **Initialize Repository**
 - **Publish to Github**
@@ -91,7 +91,13 @@ While working on a directory/folder in VS code and having the source control sid
 
 The `.git` folder contains all the necessary information for a project to be recognized as a version control project, information about commits, branches, remote repository addresses etc are all managed in the `.git` folder.
 
-The **Publish to Github** button when clicked, pops out a input for us to enter our repository name. By default, the name of the folder housing your project files would be selected as the name of the repository but it's changeable.
+The equivalent of clicking on the **Initialize Repository** button is the command below, which can be run on the terminal.
+
+```bash
+git init
+```
+
+The **Publish to Github** button when clicked, pops out a dialog for entering a repository name. By default, the name of the folder housing the project files would be selected as the name of the repository but it's changeable.
 
 > **Note:** you can't publish to Github if you've not connected VS code to Github.
 
@@ -159,7 +165,7 @@ Stage changes mean that the file or the files are to be tracked by git. At this 
 
 > **Note:** The files in the Staged Changes dropdown only shows those changes/files to be committed or rather that are being tracked by git
 
-You must have used the command shown below if you've ever used git before.  All you're doing with the command is to tell git, hey, I'll like you to keep track of these files or a file, which means you're staging the file/files.
+You must have used the command shown below if you've ever used git before. All you're doing with the command is to tell git, hey, I'll like you to keep track of these files or a file, which means you're staging the file/files.
 
 ```bash
 git add <name of file>
