@@ -12,12 +12,14 @@ Hello there and welcome back to the [Let's Build something cool series](https://
 - Basic knowledge of the command line
 
 ## Back story for the project
+
 While watching the Next.js Conference, [Pedro Duarte](https://twitter.com/@peduarte) spoke on the topic: ["So You Think You Can Build A Dropdown?"](https://www.youtube.com/watch?v=pcMYcjtWwVI&t=544s) where he built an accessible dropdown making use of a library called [Radix](https://www.radix-ui.com/)
 
 ## What's Radix
+
 Radix is an open-source UI component library for building high-quality, accessible design systems and web apps that are un-styled. Styles can be applied using any styling solution be it plain CSS, SCSS, Tailwind CSS and so on.
 
-Some of the UI components they provide are: [Accordion](https://www.radix-ui.com/docs/primitives/components/accordion), [Dialog](https://www.radix-ui.com/docs/primitives/components/dialog), [Dropdown Menu](https://www.radix-ui.com/docs/primitives/components/dropdown-menu) and lots more. Do check out there website to see more components: [Radix](https://www.radix-ui.com/)
+Some of the UI components they provide are: [Accordion](https://www.radix-ui.com/docs/primitives/components/accordion), [Dialog](https://www.radix-ui.com/docs/primitives/components/dialog), [Dropdown Menu](https://www.radix-ui.com/docs/primitives/components/dropdown-menu) and lots more. Do check out their website to see more components: [Radix](https://www.radix-ui.com/)
 
 
 ## Setup
