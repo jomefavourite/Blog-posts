@@ -74,7 +74,7 @@ Quick note, to see all the occurrences of the state changing, type **Shift + Ent
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676557908659/98d24fa8-6636-43e9-bd9d-a383ea7dce62.png align="center")
 
-### 3\. [Source Control with Git (Ctrl + Shift + G)](https://code.visualstudio.com/docs/sourcecontrol/overview)
+## 3\. [Source Control with Git (Ctrl + Shift + G)](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
 The Souce Control in VS Code allows the ease of just clicking on some buttons and all your GIT operations will be done for you without writing a single command. The Souce Control view can be accessed on the Activity bar, or with the shortcut **Ctrl + Shift + G**.
 
@@ -84,7 +84,7 @@ I wrote an article about source control in VS Code: [**VS Code Version Control: 
 
 Also, please the VS Code docs are extremely helpful, here's all the [Source Control with Git in Visual Studio Code](https://code.visualstudio.com/docs/sourcecontrol/overview).
 
-### 4\. [Multiple selections](https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor) [(multi-cursor)](https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor)
+## 4\. [Multiple selections](https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor) [(multi-cursor)](https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor)
 
 Multiple selection is a feature that allows you to place your cursor in multiple locations on a file, and then give room for editing where the cursor has been placed. The most common way of using this feature is when you have similar text all around a file, and you'll like to change the text to something else.
 
