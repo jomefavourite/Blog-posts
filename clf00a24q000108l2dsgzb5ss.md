@@ -13,9 +13,9 @@ tags: debuggingfeb, debuggingfeb-writeathon
 
 At my work, we have a reasonably large codebase using Create React App (CRA) and the codebase started feeling slow, starting up the server took forever, and hot module reload took forever to reflect changes on the browser also, so at that point, I knew I had to move to the **Next Generation Frontend Tooling - Vite 🔥**
 
-In this article, I'll go over the 5 challenges I encountered in migrating and updating dependencies, how I fixed them, and some Vite-specific things that just had to be done.
+In this article, I'll go over the 5 challenges I encountered while migrating from CRA to Vite and updating dependencies, how I found solutions to the challenges and some Vite-specific things that just had to be done.
 
-Please note that this article is centred on the libraries which my work codebase uses, so it might not cover all possible errors, you might encounter will migrating from CRA to Vite. Some of the libraries mentioned in the article and used in the codebase are:
+Please note that this article is centered on the libraries which my work codebase uses, so it might not cover all possible errors, you might encounter will migrating from CRA to Vite. Some of the libraries mentioned in the article and used in the codebase are:
 
 * [MUI](https://mui.com/)
     
@@ -34,7 +34,7 @@ Before I successfully migrated from CRA to Vite, I had failed in the past and gi
 
 So I decided to go with the divide-and-conquer approach (without recursion 😏), by initializing a Vite project from scratch and setting up the project gradually, while adding new necessary files from the CRA codebase to the Vite codebase.
 
-Essentially, I had two branches managed by git, one for the codebase with CRA and another with Vite. The Vite branch was pulled from the CRA branch but then all the files were deleted to initialise the Vite application.
+Essentially, I had two branches managed by git, one for the codebase with CRA and another with Vite. The Vite branch was pulled from the CRA branch but then all the files were deleted to initiali[z](https://github.com/vitejs/vite/issues/769)e the Vite application.
 
 > There might have been a better way for this process, but that's what I did, and it's tedious but it works 🤧
 
@@ -52,7 +52,7 @@ Here's how the error shows on the terminal:
 
 All the files in the codebase were using **.js** as the file extension and now Vite was saying I have to move 50+ files to **.jsx** 🤯.
 
-Evan You, the creator of Vite, gave a good reason why **.jsx** extension should be used with files that return JSX. The response from Evan You was mentioned in the issue: [Add an option to transpile .js file with esbuild · Issue #769](https://github.com/vitejs/vite/issues/769).
+Evan You, the creator of Vite, gave a good reason why **.jsx** extension should be used with files that return JSX. The response from Evan You was mentioned in the issue: [Add an option to transpile .js file with build · Issue #769](https://github.com/vitejs/vite/issues/769).
 
 [![Evan You Response To: Add an option to transpile .js file with esbuild](https://cdn.hashnode.com/res/hashnode/image/upload/v1677717208376/e5fd9239-7f8f-4bbe-a6b4-65ac895ba8b2.png align="center")](https://github.com/vitejs/vite/issues/769#issuecomment-780593283)
 
@@ -70,7 +70,7 @@ Since I was already making a large change to the codebase, by migrating from CRA
 
 One of the dependencies that had lots of breaking changes was Material UI now called MUI. Before upgrading, Material UI v4.11.2 was used in the codebase along with some of its peer dependencies like Material Icons around similar versions.
 
-Upgrading to MUI v5 introduced a lot of changes, to where components were imported from, all the packages' import names were changed from `@material-ui/*` to `@mui/*` and many more changes.
+Upgrading to MUI v5 introduced a lot of changes, to where components were imported from, all the packages' import names were changed from `@material-ui/*` to `@mui/*,` and many more changes.
 
 I mean, just look at this mess MUI put me through 😅
 
@@ -98,8 +98,8 @@ import { Button } from '@mui/material';
 
 So how did I overcome the changes that MUI brought?
 
-> I failed to upgrade from React 17 to 18 in my work codebase because I wasn't ready for the stress, especially now that components are rendered twice and I might need to change the architecture of how useEffect is used 😏.  
->   
+> I failed to upgrade from React 17 to 18 in my work codebase because I wasn't ready for the stress, especially now that components are rendered twice and I might need to change the architecture of how useEffect is used 😏.
+> 
 > Maybe I'll do this later in the future... 😤
 
 ### Solution
@@ -118,9 +118,9 @@ Reading the documentation for the dependencies I upgrade was a huge help, like d
 
 The error ***Minified React error*** was caused by the library [`react-phone-input-2`](https://www.npmjs.com/package/react-phone-input-2) used in the codebase. This error was also one that gave me a tough time, to figure out, cause it worked fine on the development server but shows the error on production.
 
-The root of the error, explained by [sodatea](https://github.com/sodatea) is that many packages follow a bad practice that breaks Rollup ESM-CJS interop.
+The root of the error, explained by data is that many packages follow a bad practice that breaks Rollup ESM-CJS interop.
 
-> Truthfully, I don't know enough about how Vite works with Rollup, and how libraries are made, so I'll direct you to the root of this error, explained by [sodatea](https://github.com/sodatea) here [https://github.com/vitejs/vite/issues/2139#issuecomment-1024852072](https://github.com/vitejs/vite/issues/2139#issuecomment-1024852072)
+> Truthfully, I don't know enough about how Vite works with Rollup, and how libraries are made, so I'll direct you to the root of this error, explained data here [https://github.com/vitejs/vite/issues/2139#issuecomment-1024852072](https://github.com/vitejs/vite/issues/2139#issuecomment-1024852072)
 
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678278432335/e09f0f19-d6ae-41ad-80ea-a692465b102c.png align="center")](https://github.com/vitejs/vite/issues/2139#issuecomment-1024852072)
 
@@ -228,7 +228,7 @@ Would I ever use MUI for any reason in the future? Definitely, NO. If not that i
 
 With all of this, I leave with this, if you're migrating from CRA to Vite, and you're using MUI in your codebase, just know you're in for soup 🤣.
 
-If you found this article helpful in a way, do like, share and follow me for more articles. Also, if you have a simpler approach or solution to solve the issues I mentioned in the article, please drop them in the comment, I'll love to see them.
+If you found this article helpful in a way, do like, sh, are, and follow me for more articles. Also, if you have a simpler approach or solution to solve the issues I mentioned in the article, please drop them in the comment, I'll love to see them.
 
 I'll make sure to keep this article updated if I encounter more errors or bugs due to the migration.
 
