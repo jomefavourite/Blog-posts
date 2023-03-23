@@ -15,7 +15,7 @@ At my work, we have a reasonably large codebase using Create React App (CRA) and
 
 In this article, I'll go over the 5 challenges I encountered while migrating from CRA to Vite and updating dependencies, how I found solutions to the challenges and some Vite-specific things that just had to be done.
 
-Please note that this article is centered on the libraries which my work codebase uses, so it might not cover all possible errors, you might encounter will migrating from CRA to Vite. Some of the libraries mentioned in the article and used in the codebase are:
+Please note that this article is centred on the libraries which my work codebase uses, so it might not cover all possible errors, you might encounter will migrating from CRA to Vite. Some of the libraries mentioned in the article and used in the codebase are:
 
 * [MUI](https://mui.com/)
     
