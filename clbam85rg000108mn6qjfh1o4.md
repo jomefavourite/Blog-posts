@@ -1,4 +1,15 @@
-# First look at the GitHub CLI
+---
+title: "First look at the GitHub CLI"
+seoTitle: "First look at the GitHub CLI"
+seoDescription: "The GitHub CLI is a tool I've been using recently, and I doubt many of us developers are aware of it, so we'll be looking at some of its use cases which ..."
+datePublished: Mon Dec 05 2022 09:54:05 GMT+0000 (Coordinated Universal Time)
+cuid: clbam85rg000108mn6qjfh1o4
+slug: first-look-at-the-github-cli
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670233842749/ktFLiCIHs.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1670233932775/4j4WTODzd.jpg
+tags: github, github-cli
+
+---
 
 We all know about Github, I presume but do we know about the Github CLI (Command Line Interface)?
 
