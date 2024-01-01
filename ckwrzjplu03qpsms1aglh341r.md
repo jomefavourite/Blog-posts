@@ -1,4 +1,15 @@
-# Let's build Windows 11 dropdown menu using Radix Primitives
+---
+title: "Let's build Windows 11 dropdown menu using Radix Primitives"
+seoTitle: "Let's build Windows 11 dropdown menu using Radix Primitives"
+seoDescription: "Radix is an open-source UI component library for building high-quality, accessible design systems and web apps that are un-styled. Styles can be applied"
+datePublished: Sat Dec 04 2021 15:43:29 GMT+0000 (Coordinated Universal Time)
+cuid: ckwrzjplu03qpsms1aglh341r
+slug: lets-build-windows-11-dropdown-menu-using-radix-primitives
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638629807118/H6FjLekfy.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1638629841421/D8PSbKwzh.png
+tags: accessibility, reactjs, ui, components, 2articles1week
+
+---
 
 Hello there, and welcome back to the [Let's Build something cool series](https://favouritejome.hashnode.dev/series/lets-build-something-cool). In this article, we'll build the Windows 11 dropdown that's displayed on the desktop. Here's a preview:
 
