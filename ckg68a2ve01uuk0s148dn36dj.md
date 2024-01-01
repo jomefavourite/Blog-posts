@@ -1,4 +1,15 @@
-## What's Asynchronous JavaScript‽
+---
+title: "What's Asynchronous JavaScript‽"
+seoTitle: "Asynchronous JavaScript | Favourite Jome"
+seoDescription: "Asynchronous simply means having different actions happening at the same time in any other without waiting for each other..."
+datePublished: Mon Oct 12 2020 07:41:42 GMT+0000 (Coordinated Universal Time)
+cuid: ckg68a2ve01uuk0s148dn36dj
+slug: asynchronous-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1602366777246/d0mWMLj7K.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1602366773470/WpUEnjmPo.png
+tags: javascript, frontend, asynchronous, event-loop
+
+---
 
 
 Hello! Welcome back to my series, [JavaScript: The Hard Part cover](https://favouritejome.hashnode.dev/series/javascript-the-hard-parts). If this is my first post in the series you're reading I'll advise you to take a look at the previous articles to follow up with the series.
