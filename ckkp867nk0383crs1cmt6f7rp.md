@@ -1,4 +1,15 @@
-## CGPA Result Forecaster - Hackathon Project
+---
+title: "CGPA Result Forecaster - Hackathon Project"
+seoTitle: "CGPA Result Forecaster - Jome Favourite"
+seoDescription: "GPA and CGPA calculator with a special feature which is to forecast the average score a student needs to end up a 1st/2nd/3rd class."
+datePublished: Wed Feb 03 2021 09:25:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckkp867nk0383crs1cmt6f7rp
+slug: cgpa-result-forecaster-hackathon-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1612344271205/PGeOBJ_X2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1612344275972/n3W6qWkdT.png
+tags: javascript, hashnode, vercelhashnode
+
+---
 
 Hello 👋, here's my submission for Hashnode Hackathon Powered by Vercel. It's a __Grade Point Average (GPA)__ and __Cumulative Grade Point Average (CGPA)__ calculator with a special feature which is to forecast the average score a student needs to end up with a 1st Class, 2nd Class Upper/ Lower per semester from his/her known scores.
 
