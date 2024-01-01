@@ -1,4 +1,15 @@
-## Let's build a game using JavaScript
+---
+title: "Let's build a game using JavaScript"
+seoTitle: "Rock, Paper, Scissors game built with JavaScript - Jome Favourite"
+seoDescription: "Hello 👋, In this article, I'll share how I built my first game written in Javascript and my thought process in making the game."
+datePublished: Fri Apr 23 2021 17:37:01 GMT+0000 (Coordinated Universal Time)
+cuid: cknulj2510dblbts16lnyetsu
+slug: lets-build-a-game-using-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619198242570/il5yuSWgy.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1619198053740/FmPFTuvcF.jpeg
+tags: game, javascript, sass, html5, functional-programming
+
+---
 
 Hello 👋, In this article, I'll share how I built my first game written in Javascript and my thought process in making the game. Hope you'll follow along and learn something new. Okay then, let's go over the rules of the game for us to understand the game.
 
