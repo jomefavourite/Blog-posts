@@ -1,4 +1,15 @@
-## The World of Programming Paradigms
+---
+title: "The World of Programming Paradigms"
+seoTitle: "The World of Programming Paradigms - Favourite Jome"
+seoDescription: "Programming Paradigm can be thought of like a way/style of writing programs. Also, it can be viewed as ways programs are classified based on their features."
+datePublished: Fri May 28 2021 18:37:19 GMT+0000 (Coordinated Universal Time)
+cuid: ckp8o3f1f06hk04s1hr64dikj
+slug: the-world-of-programming-paradigms
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1622226774130/DonY-8vzQ.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1622226860453/GcB6FzBOJV.png
+tags: programming, programming-languages, programming-tips
+
+---
 
 There are so many ways of writing programs, either by the programming language of choice or by the different features of a language. Understanding this fact will help you write more efficient programs if you ask me 😏.
 
