@@ -1,4 +1,12 @@
-## Callback Functions and Higher-Order Functions
+---
+title: "Callback Functions and Higher-Order Functions"
+datePublished: Mon Sep 21 2020 13:03:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckfcjjd4n07nh2zs1dg2idig5
+slug: callback-functions-and-higher-order-functions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1600692521114/XJq4rmv55.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1600692503968/Lm6Mjc_Kl.png
+
+---
 
 Hello! This article is a follow up with my series [JavaScript: The Hard Parts v2 Cover](https://favouritejome.hashnode.dev/series/javascript-the-hard-parts) from a course I took from [Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) By [Will Sentance](https://twitter.com/willsentance).
 
