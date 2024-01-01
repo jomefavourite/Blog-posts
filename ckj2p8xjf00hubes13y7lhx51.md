@@ -1,4 +1,13 @@
-## 2 months of Learning React.js and The project I worked on
+---
+title: "2 months of Learning React.js and The project I worked on"
+datePublished: Thu Dec 24 2020 10:24:45 GMT+0000 (Coordinated Universal Time)
+cuid: ckj2p8xjf00hubes13y7lhx51
+slug: 2-months-of-learning-reactjs-and-the-project-i-worked-on
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608804541310/oMHgjaX1c.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1608804543442/REd_ISJ3d.gif
+tags: javascript, learning, reactjs, javascript-library, christmashackathon
+
+---
 
 Hello everyone! 👋, this article is all about what I've learnt through my React JS journey and the BIG project I worked on to practice what I've learnt, it's been fun and tedious at the same time. 
 
