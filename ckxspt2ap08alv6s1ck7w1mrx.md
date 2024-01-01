@@ -1,4 +1,15 @@
-## First Internship Journey as a Front-End Developer and What I've Learnt
+---
+title: "First Internship Journey as a Front-End Developer and What I've Learnt"
+seoTitle: "First Internship Journey as a Front-End Developer and What I've Learnt"
+seoDescription: "In this article, I'll share my journey to how I became a Frontend Developer Intern at a  company named Vasiti.com  for 5 months, how I got in and my process"
+datePublished: Thu Dec 30 2021 08:38:18 GMT+0000 (Coordinated Universal Time)
+cuid: ckxspt2ap08alv6s1ck7w1mrx
+slug: first-internship-journey-as-a-front-end-developer-and-what-ive-learnt
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640807749406/1WSfZ0KuH.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1640807791207/_BZ4GofcTN.png
+tags: interview, internships, job-search
+
+---
 
 In this article, I'll share my journey to how I became a Frontend Developer Intern at a company named [Vasiti.com](https://www.vasiti.com/) for 5 months, how I got in, my process of getting the role and what I've leant through the internship.
 
