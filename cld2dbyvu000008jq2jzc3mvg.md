@@ -1,4 +1,15 @@
-# Let's build a Calculator App (React Native)
+---
+title: "Let's build a Calculator App (React Native)"
+seoTitle: "Let's build a Calculator App | Favourite Jome"
+seoDescription: "In this article, we'll build a Calculator application similar to Samsung's calculator app and use Expo"
+datePublished: Thu Jan 19 2023 00:42:22 GMT+0000 (Coordinated Universal Time)
+cuid: cld2dbyvu000008jq2jzc3mvg
+slug: lets-build-a-calculator-app-react-native
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674088659651/a915469f-8fd4-40a5-92c9-3f1f1ffc45d4.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1674088439117/bc713251-a9df-4955-9e26-8324d98a2c30.jpeg
+tags: react-native, reactjs, calculator
+
+---
 
 Welcome back to the [Let's build Something Cool](https://favouritejome.hashnode.dev/series/lets-build-something-cool) series, where we build cool things, at least from my perspective 😊, but really it's a series where we go in-depth about the cool things I build, but then we get to build it together.
 
