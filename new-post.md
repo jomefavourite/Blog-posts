@@ -6,7 +6,7 @@ domain: https://blog.favouritejome.dev/
 ignorePost: true
 hideFromHashnodeCommunity: true
 enableToc: false
-saveAsDraft: true
+saveAsDraft: false
 ---
 
 
