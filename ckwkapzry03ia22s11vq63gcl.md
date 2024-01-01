@@ -1,4 +1,15 @@
-## VS Code Version Control: Understanding the basics of  Git operations # 1
+---
+title: "VS Code Version Control: Understanding the basics of  Git operations # 1"
+seoTitle: "VS Code Version Control: Understanding the basics of  Git operations"
+seoDescription: "in this article, we'll look at understanding some of the various options VS Code Source Control or Version Control provides."
+datePublished: Mon Nov 29 2021 06:34:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckwkapzry03ia22s11vq63gcl
+slug: vs-code-version-control-understanding-the-basics-of-git-operations-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638050548475/iyb5t0z_w.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1638050524874/Red8aOTOu.png
+tags: github, version-control, git, vscode, 2articles1week
+
+---
 
 Visual Studio Code (VS Code) is one of the most used Integrated Development Environments (IDE) with lots of features which most users don't know about (including myself, I can't say I've used all the features that VS Code provides 😃).
 
