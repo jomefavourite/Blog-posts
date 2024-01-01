@@ -1,4 +1,15 @@
-# 4 Features in VSCode I use to speed up my Workflow
+---
+title: "4 Features in VSCode I use to speed up my Workflow"
+seoTitle: "4 Features in VSCode I use to speed up my Workflow"
+seoDescription: "Visual Studio Code (VS Code) is my favourite code editor..."
+datePublished: Sat Feb 18 2023 05:32:46 GMT+0000 (Coordinated Universal Time)
+cuid: cle9iwzgp000209mofomv2mlz
+slug: 4-features-in-vscode-i-use-to-speed-up-my-workflow
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676698258035/5ca5a77e-b480-49d3-a1a7-6771a0648511.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676698311935/9d94c53c-5de2-46ac-99a4-5d5f4703e06c.jpeg
+tags: vscode, vscode-cjevho8kk00bo1ss2lmqqjr51
+
+---
 
 Visual Studio Code (VS Code) is my favourite code editor, even though I haven't tried all the possible code editors out there, I can say VS Code is my best 😊. In this article, we'll go over 4 features this great editor has, which make it just right, to speed up productivity and a lifesaver at best.
 
