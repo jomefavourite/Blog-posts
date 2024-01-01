@@ -1,4 +1,13 @@
-## What's Closure in JS?
+---
+title: "What's Closure in JS?"
+datePublished: Tue Sep 29 2020 23:24:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckfol8mjw03iuzns19hri2sma
+slug: whats-closure-in-js
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1601426099981/Aiyq3pHSr.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1601426116719/KCj0BsLoO.png
+tags: closure, javascript, web-development
+
+---
 
 Hello once again, before I proceed,  I'll advise you to go through my previous blog posts in this [series](https://hashnode.com/series/javascript-the-hard-parts), because the previous blog posts will aid you to understand the process of JavaScript Execution before Closure. 
 
