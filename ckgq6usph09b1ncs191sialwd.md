@@ -1,4 +1,15 @@
-## Understanding Promises in JavaScript: Part 1
+---
+title: "Understanding Promises in JavaScript: Part 1"
+seoTitle: "Understanding Promises in JavaScript: Part 1 | Favourite Jome"
+seoDescription: "A Promise is a special object that may produce a single value at some time in the future..."
+datePublished: Mon Oct 26 2020 06:57:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckgq6usph09b1ncs191sialwd
+slug: promises-in-javascript-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1603490610727/K4yxNa6Mr.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1603490616343/nEIp4mLms.png
+tags: javascript, asynchronous, promises
+
+---
 
 Hello once again, this article is all about what I understood from a course I took [Javascript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/) from FrontendMaster which I've been writing about in this [series](https://hashnode.com/series/javascript-the-hard-parts-v2-cover-ckfb9a3bz04lf2zs1eow666vd).
 
