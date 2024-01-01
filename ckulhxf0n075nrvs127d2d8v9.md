@@ -1,4 +1,15 @@
-## Introducing PlanDone - Getting plans done
+---
+title: "Introducing PlanDone - Getting plans done"
+seoTitle: "Introducing PlanDone - Getting plans done"
+seoDescription: "PlanDone is a platform made for Students who would like to learn smart, be productive and access everything they need while studying in one place..."
+datePublished: Sun Oct 10 2021 17:24:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckulhxf0n075nrvs127d2d8v9
+slug: introducing-plandone-getting-plans-done
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633833166331/AJAZ7gfas.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1633833178480/sOqvZJYiTw.png
+tags: productivity, javascript, nodejs, side-project
+
+---
 
 Hello everyone 👋, this article is all about a fun project I decided to take to the next level by making it a Full Stack Application (which is my first) from just a school assignment project.
 
