@@ -1,4 +1,15 @@
-## Class, Prototype and OOP Concept Explained
+---
+title: "Class, Prototype and OOP Concept Explained"
+seoTitle: "Class, Prototype and OOP Concept Explained | Favourite Jome"
+seoDescription: "There are 4 different ways of storing data (properties) and functionalities (methods) together in one place which can be used multiple times as need."
+datePublished: Mon Nov 23 2020 00:01:06 GMT+0000 (Coordinated Universal Time)
+cuid: ckhtsbid901aj3bs17z6u2csk
+slug: class-prototype-and-oop-concept-explained
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1606089429382/RDEJpSaXv.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1606089431198/lmN2nHU4I.png
+tags: oop, javascript, class, hashnodebootcamp, hashnodebootcamp2-1
+
+---
 
 Hello everyone 👋, this article is also part of my series [Javascript: The Hard Parts v2 Cover](https://hashnode.com/series/javascript-the-hard-parts-v2-cover-ckfb9a3bz04lf2zs1eow666vd). Though you don't have to read the previous articles to follow up with this article. But I recommend reading my previous articles in the series 😉.
 
