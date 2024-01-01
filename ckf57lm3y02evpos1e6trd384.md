@@ -1,4 +1,13 @@
-## Principles of JavaScript
+---
+title: "Principles of JavaScript"
+datePublished: Wed Sep 16 2020 09:55:13 GMT+0000 (Coordinated Universal Time)
+cuid: ckf57lm3y02evpos1e6trd384
+slug: principles-of-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1600346915197/JRvIebY8f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1600344413275/_dKGTvOiR.png
+tags: javascript
+
+---
 
 Hello everyone, In this article, I'll be sharing my jottings from a course I recently took from Frontend Masters : [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/).
 
