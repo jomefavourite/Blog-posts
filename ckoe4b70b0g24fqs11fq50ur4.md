@@ -1,4 +1,15 @@
-## Let's build a Custom Search Filter using JavaScript
+---
+title: "Let's build a Custom Search Filter using JavaScript"
+seoTitle: "Let's build a Custom Search Filter using JavaScript | Favourite Jome"
+seoDescription: "In this article, we'll build a simple custom filter functionality that filters a list of data/information."
+datePublished: Fri May 07 2021 09:30:24 GMT+0000 (Coordinated Universal Time)
+cuid: ckoe4b70b0g24fqs11fq50ur4
+slug: lets-build-a-custom-search-filter-using-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1620379784275/72z-o_2Gx.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1620379791250/a1FYye2H6.png
+tags: javascript, hashnode
+
+---
 
 A while back, I had to build a search filtering functionality for a class project I was working on which took a while to figure out so, in this article, we'll build it together. It simply filters a list of data/information. For this article, the list will be represented as todos we'll have to do, hopefully 😀. 
 
