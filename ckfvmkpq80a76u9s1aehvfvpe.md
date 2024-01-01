@@ -1,5 +1,17 @@
-## Write CSS with Superpowers
-Using Sass.
+---
+title: "Write CSS with Superpowers
+Using Sass."
+seoTitle: "Write CSS with Superpowers
+Using Sass | Favourite Jome"
+seoDescription: "Have you ever wished there was a faster way to write CSS (Cascading Style Sheet)? Well, there's an awesome tool called Sass. Trust me it's Awesome!"
+datePublished: Sun Oct 04 2020 21:26:36 GMT+0000 (Coordinated Universal Time)
+cuid: ckfvmkpq80a76u9s1aehvfvpe
+slug: write-css-with-superpowers-using-sass
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1601845549112/B-4XGfbY-.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1601845555275/2m2eu3hY9.png
+tags: css3, sass, scss
+
+---
 
 Have you ever wished there was a faster way to write CSS (Cascading Style Sheet)?
 Or had 1000s of CSS code and found it difficult to maintain ? 
