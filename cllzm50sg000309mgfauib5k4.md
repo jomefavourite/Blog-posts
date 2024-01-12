@@ -230,11 +230,13 @@ Disclaimer: Please learn about the Pages Router before the App Router if you're 
 
 1. [Next.js Learning Documentation](https://nextjs.org/learn/foundations/about-nextjs) - The Next.js team were kind enough to put up this guide, that I followed to learn Next.js, though some things might have changed as to when I went through it, but it's a good place to start from. **Highly recommended. 🤩**
     
-2. [**Next.js Tutorial for Beginners (2020)**](https://youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&si=6yRUcBP8fmiRppeQ) \- by the [Net Ninja](https://www.youtube.com/@NetNinja). This is a video guide which is quite old but it really teaches Next.js Pages Router principles really well. BTW, I just love learning new technologies from [Net Ninja](https://www.youtube.com/@NetNinja), cause I love his teachings 😍
+2. [**Next.js Tutorial for Beginners (2020)**](https://youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&si=6yRUcBP8fmiRppeQ) - by the [Net Ninja](https://www.youtube.com/@NetNinja). This is a video guide which is quite old but it really teaches Next.js Pages Router principles really well. BTW, I just love learning new technologies from [Net Ninja](https://www.youtube.com/@NetNinja), cause I love his teachings 😍
     
-3. [**Next 13 Crash Course 2023**](https://youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT&si=Y-CCK9Cy4q9TRCy0) \- by the [Net Ninja](https://www.youtube.com/@NetNinja). I haven't gone through it myself, but I'm sure it's great 💖
+3. [**Next 13 Crash Course 2023**](https://youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT&si=Y-CCK9Cy4q9TRCy0) - by the [Net Ninja](https://www.youtube.com/@NetNinja). I haven't gone through it myself, but I'm sure it's great 💖
     
-4. [**Next.js Documentation**](https://nextjs.org/docs) **-** by the Next.js team. Though I don't recommend this documentation for learning, cause it doesn't work you through building an actual application. The documentation is useful when you want to know everything about some features with all the APIs and so on. 😊
+4. [**Next.js Documentation**](https://nextjs.org/docs) **\-** by the Next.js team. Though I don't recommend this documentation for learning, cause it doesn't work you through building an actual application. The documentation is useful when you want to know everything about some features with all the APIs and so on. 😊
     
 
 With all of that, all the best learning Next.js, cheers 🍻 and see you in the next article 🎉
+
+%%[buymeacoffee]
