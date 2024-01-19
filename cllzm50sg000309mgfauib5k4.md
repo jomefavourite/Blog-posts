@@ -238,5 +238,3 @@ Disclaimer: Please learn about the Pages Router before the App Router if you're 
     
 
 With all of that, all the best learning Next.js, cheers 🍻 and see you in the next article 🎉
-
-%%[buymeacoffee]
