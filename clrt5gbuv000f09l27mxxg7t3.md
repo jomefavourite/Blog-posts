@@ -6,4 +6,4 @@ slug: static-vs-dynamic-rendering-in-nextjs
 
 ---
 
-jhhkd n hfdbujd jdwhdjwd wjdjwe
+jhhkd n hfdbujd jdwhdjwd wjdjwe hello
