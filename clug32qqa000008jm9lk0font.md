@@ -37,11 +37,11 @@ To combat this issue, new viewport units were added to CSS, namely Large viewpor
 
 Here are some dynamic viewport units added to Tailwind CSS by default `w-svw`, `w-lvw`, `w-dvw`, `h-svh`, `h-lvh`, `h-dvh` and arbitrary values like this `min-h-[75dvh]` works as well 🤩.
 
-# :has() pseudo-class
+## :has() pseudo-class
 
 The `:has()` pseudo-class is one of those cool features recently added to CSS that I haven't got to play a lot with; since it's now supported in Tailwind CSS, it just opens a new world of possibilities 🤯.
 
-*The*[`:has()`*pseudo-class*](https://developer.mozilla.org/en-US/docs/Web/CSS/:has) *allows you to style an element based on its children, not just based on its parents. It even makes it possible to style based on subsequent siblings - From the* [*Tailwind CSS blog*](https://play.tailwindcss.com/yuQyHjiuSx)
+*The*[`:has()`*pseudo-class*](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)*allows you to style an element based on its children, not just based on its parents. It even makes it possible to style based on subsequent siblings - From the*[*Tailwind CSS blog*](https://play.tailwindcss.com/yuQyHjiuSx)
 
 Essentially, think of the `:has()` pseudo-class as a shortcut and a better way to do some crazy things you might have done with SASS or JavaScript but now can be done with plain CSS or, in this case, Tailwind CSS 🤩
 
