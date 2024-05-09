@@ -33,7 +33,7 @@ We'll go over these 5 different methods of centering images be it vertically and
 * Using the Position Property.
     
 
-https://youtu.be/mwVNVxpkly0?si=HbtzaD16ZdqzitZh
+%[https://youtu.be/mwVNVxpkly0?si=HbtzaD16ZdqzitZh] 
 
 ## **Method 1: Using text-align property to Center an Image**
 
@@ -66,7 +66,7 @@ Here is a code snippet that shows how to use the text-align property:
 
 **Preview:**
 
-![](https://purecode.ai/blogs/wp-content/uploads/2024/01/5d5d227d-2c26-4cc5-800d-aae89b9126ba.png align="left")
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/5d5d227d-2c26-4cc5-800d-aae89b9126ba.png align="left")
 
 ### Limitation using the text-align property
 
@@ -106,6 +106,8 @@ Here is a code snippet that shows how to use the margin property:
 
 **Preview:**
 
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/2649b5a9-71dd-4428-a050-09c3440bfa58.png align="left")
+
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/2649b5a9-71dd-4428-a050-09c3440bfa58.png align="left")
 
 **Explanation of the above code:**
@@ -132,7 +134,7 @@ Here is a code snippet that shows how to use the margin property:
 
 Flexbox provides a powerful and flexible layout model, making it an excellent choice for centering elements, including images, both horizontally and vertically. By applying the **display: flex;** property to the container and using alignment properties, you can achieve precise control over the positioning of your images.
 
-https://youtu.be/K4N5HbituW4?si=Bupm2WmsD9qTebWb
+%[https://youtu.be/K4N5HbituW4] 
 
 Now, let’s see how to position images to the center using Flexbox both Horizontally and Vertically.
 
@@ -162,6 +164,8 @@ Here's how you can achieve horizontal centering using Flexbox:
 
 **Preview:**
 
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/fd9e1a90-79cd-49c8-b3f2-24a899ea7c54.png align="left")
+
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/fd9e1a90-79cd-49c8-b3f2-24a899ea7c54.png align="left")
 
 > The border line around the image signifies the container width.
@@ -177,9 +181,9 @@ Here's how you can achieve horizontal centering using Flexbox:
 
 ---
 
-Since the flexbox property stacks the flex items horizontally by default we could have multiple images in the container positioned horizontally and aligned in the center of the container. Below is an image illustrating this, notice the green border line which signifies the container width.
+Since the flexbox property stacks the flex items horizontally by default, we could have multiple images in the container positioned horizontally and aligned in the center of the container. Below is an image illustrating this; notice the green border line, which signifies the container width.
 
-![](https://purecode.ai/blogs/wp-content/uploads/2024/01/53a60ac9-83fc-4b39-836e-2965e2177256.png align="left")
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/53a60ac9-83fc-4b39-836e-2965e2177256.png align="left")
 
 To achieve the preview above, here's the code snippet
 
@@ -226,6 +230,8 @@ To illustrate the vertical centering of images, the flexbox container needs to h
 
 **Preview:**
 
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/5ea9ad10-c0d5-4d4f-9bea-e0e4f13bf947.png align="left")
+
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/5ea9ad10-c0d5-4d4f-9bea-e0e4f13bf947.png align="left")
 
 **Explanation:**
@@ -239,11 +245,15 @@ The **align-items: center** property is used here to position the image vertical
 
 Add more images to the flex container while still using the align-items center property, would look like this.
 
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/2e2c2ad4-0ab6-4a83-9af8-3040e68c7106.png align="left")
+
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/2e2c2ad4-0ab6-4a83-9af8-3040e68c7106.png align="left")
 
 ### Centering Images both Horizontally and Vertically
 
 In the case where there are multiple images and you'd like to center the images vertically and horizontally, here's how to do so:
+
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/d5cd430a-7b3f-4137-bd6c-f8ab333695bb.png align="left")
 
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/d5cd430a-7b3f-4137-bd6c-f8ab333695bb.png align="left")
 
@@ -265,7 +275,7 @@ In the case where there are multiple images and you'd like to center the images 
   }
 ```
 
-**Explaination**
+**Explanation**
 
 * The **justify content** property with the value **center** positions the images (or flex items) on the [main axis](https://developer.mozilla.org/en-US/docs/Glossary/Main_Axis), that is horizontally, while
     
@@ -295,6 +305,8 @@ In the case where there are multiple images and you'd like to center the images 
 > To learn more about using the flexbox properties, please visit the [Flexbox MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 
 Since we're covering centering images in CSS, why don't you check out [PureCode.ai](https://purecode.ai/); we’ve got over 1000+ AI-generated UI components, which will enable you to skip the tedious work of creating components yourself. Check [PureCode](https://purecode.ai/) out today.
+
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/f85058bf-5b98-48bf-a4d8-6900cd3a896d.png align="left")
 
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/f85058bf-5b98-48bf-a4d8-6900cd3a896d.png align="left")
 
@@ -330,20 +342,24 @@ This approach centers all items, in this case, the image element within the grid
 }
 ```
 
-**Preview**
+**Preview:**
+
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/2e7c54f1-5e48-4cee-8c4b-1bc013defba9.png align="left")
 
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/2e7c54f1-5e48-4cee-8c4b-1bc013defba9.png align="left")
 
-**Explaination**
+**Explanation**
 
 * The **display** property as **grid** makes the container selector become a grid container.
     
-* The **justify-items** property with the value **center** positions the images (or grid items) on the inline axis, that is horizontally
+* The **justify-items** property with the value **center** positions the images (or grid items) on the inline axis, that is horizontally.
     
 
 #### Horizontal Centering of **Multiple Images with Grid**
 
 To horizontally align multiple images with the grid property, we'll need to specify the [grid tracks](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout#grid_tracks) using the [grid-template-colomns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns) property.
+
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/93019b7f-8952-4402-9957-ec742b8302a6.png align="left")
 
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/93019b7f-8952-4402-9957-ec742b8302a6.png align="left")
 
@@ -371,18 +387,18 @@ Example code:
  }
 ```
 
-**Explaination:**
+**Explanation:**
 
-* The **display: grid** property and value makes the container selector a grid container
+* The **display: grid** property and value make the container selector a grid container
     
-* **grid-template-columns: repeat(2, 1fr);** defines the size of the column tracks. In this case, we'll have 1fr unit for 2 columns, where the 2 images would reside.
+* **grid-template-columns: repeat(2, 1fr);** defines the size of the column tracks. In this case, we'll have 1fr unit for two columns, where the two images would reside.
     
 * **justify-items: center;** positions the images horizontally center within the columns.
     
 
 ### Vertical Centering with Grid
 
-Here are an approach to achieve vertical centering with Grid:
+Here is an approach to achieve vertical centering with Grid:
 
 **Using align-items: center;**
 
@@ -408,24 +424,28 @@ Here are an approach to achieve vertical centering with Grid:
 
 **Preview:**
 
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/ed19127c-20e0-4c81-b370-62e898daa49b.png align="left")
+
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/ed19127c-20e0-4c81-b370-62e898daa49b.png align="left")
 
 **Explanation:**
 
-* The **display: grid** property and value makes the container selector a grid container
+* The **display: grid** property and value make the container selector a grid container
     
 * The **align-items** property **center** as its value positions the images vertically on the [block axis](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items)
     
 * **height: 80vh;** is used to show how the image is center vertically.
     
 
-For multiple images, specifing the **grid-template-columns** property would do the trick.
+For multiple images, specifying the **grid-template-columns** property would do the trick.
+
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/640c3225-0b94-48f3-a44c-983cb4867821.png align="left")
 
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/640c3225-0b94-48f3-a44c-983cb4867821.png align="left")
 
 ### Centering Images both Horizontally and Vertically
 
-Using the place-items: center; oroperties which is an [shorthand property](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties) for the [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items) and [justify-items](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items) properties, would center images both horizontally and vertically.
+Using the `place-items: center;` properties, which is a shorthand property for the align-items and justify-items properties, would centre images both horizontally and vertically.
 
 ```xml
 <!-- HTML file -->
@@ -450,6 +470,8 @@ Using the place-items: center; oroperties which is an [shorthand property](https
 ```
 
 **Preview:**
+
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/2d603fb7-e2ae-4358-a48d-a55436e8783b.png align="left")
 
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/2d603fb7-e2ae-4358-a48d-a55436e8783b.png align="left")
 
@@ -501,6 +523,8 @@ Here's how to achieve centering an image with the position property:
 
 **Preview:**
 
+![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/026507b1-c2a1-4603-9318-3aa9dfdaeecf.png align="left")
+
 ![](https://purecode.ai/blogs/wp-content/uploads/2024/01/026507b1-c2a1-4603-9318-3aa9dfdaeecf.png align="left")
 
 **Explanation:**
@@ -532,7 +556,22 @@ Here's how to achieve centering an image with the position property:
 
 ## Difference between all 5 methods
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>Method</strong></p></td><td colspan="1" rowspan="1"><p><strong>Description</strong></p></td><td colspan="1" rowspan="1"><p><strong>Advantages</strong></p></td><td colspan="1" rowspan="1"><p><strong>Limitations</strong></p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Using text-align Property</strong></p></td><td colspan="1" rowspan="1"><p>Centrally aligns an image horizontally within its container using <code>text-align: center;</code>.</p></td><td colspan="1" rowspan="1"><p>- Quick and simple implementation.<br>- Suitable for basic layouts.</p></td><td colspan="1" rowspan="1"><p>- Limited to horizontal centering.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Using Margin Property</strong></p></td><td colspan="1" rowspan="1"><p>Uses <code>margin: auto;</code> to center an image both horizontally and vertically within its container.</p></td><td colspan="1" rowspan="1"><p>- Simple and widely supported.<br>- Supports both horizontal and vertical centering.</p></td><td colspan="1" rowspan="1"><p>- Requires the image to be a block-level element.<br>- Not as flexible for complex layouts.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Using Flexbox Property</strong></p></td><td colspan="1" rowspan="1"><p>Utilizes <code>display: flex;</code> with <code>justify-content: center;</code> and <code>align-items: center;</code> for versatile horizontal and vertical centering.</p></td><td colspan="1" rowspan="1"><p>- Versatile for both horizontal and vertical centering.<br>- Great for responsive design.</p></td><td colspan="1" rowspan="1"><p>- Single-axis limitation.<br>- Default behavior of flex items may require additional adjustments.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Using Grid Property</strong></p></td><td colspan="1" rowspan="1"><p>Applies <code>display: grid;</code> to create a two-dimensional layout, providing comprehensive control over image centering.</p></td><td colspan="1" rowspan="1"><p>- Excellent for complex layouts.<br>- Precise control over alignment.</p></td><td colspan="1" rowspan="1"><p>- Learning curve for advanced features.<br>- May require vendor prefixes for older browser compatibility.</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>Using Position Property</strong></p></td><td colspan="1" rowspan="1"><p>Utilizes <code>position: absolute;</code> with <code>top: 50%;</code>, <code>left: 50%;</code>, and <code>transform: translate(-50%, -50%);</code> for precise centering of an image relative to its container.</p></td><td colspan="1" rowspan="1"><p>- Absolute precision in centering.<br>- Suitable for unique layout requirements.</p></td><td colspan="1" rowspan="1"><p>- Requires knowledge of container dimensions.<br>- May not be as flexible for responsive designs.</p></td></tr></tbody></table>
+| **Method** | **Description** | **Advantages** | **Limitations** |
+| --- | --- | --- | --- |
+| **Using text-align Property** | Centrally aligns an image horizontally within its container using `text-align: center;`. | \- Quick and simple implementation.  
+\- Suitable for basic layouts. | \- Limited to horizontal centering. |
+| **Using Margin Property** | Uses `margin: auto;` to center an image both horizontally and vertically within its container. | \- Simple and widely supported.  
+\- Supports both horizontal and vertical centering. | \- Requires the image to be a block-level element.  
+\- Not as flexible for complex layouts. |
+| **Using Flexbox Property** | Utilizes `display: flex;` with `justify-content: center;` and `align-items: center;` for versatile horizontal and vertical centering. | \- Versatile for both horizontal and vertical centering.  
+\- Great for responsive design. | \- Single-axis limitation.  
+\- Default behavior of flex items may require additional adjustments. |
+| **Using Grid Property** | Applies `display: grid;` to create a two-dimensional layout, providing comprehensive control over image centering. | \- Excellent for complex layouts.  
+\- Precise control over alignment. | \- Learning curve for advanced features.  
+\- May require vendor prefixes for older browser compatibility. |
+| **Using Position Property** | Utilizes `position: absolute;` with `top: 50%;`, `left: 50%;`, and `transform: translate(-50%, -50%);` for precise centering of an image relative to its container. | \- Absolute precision in centering.  
+\- Suitable for unique layout requirements. | \- Requires knowledge of container dimensions.  
+\- May not be as flexible for responsive designs. |
 
 ## Frequently Asked Questions
 
@@ -560,6 +599,6 @@ You can center images using any of these methods
 
 ## **Final thoughts on Centering Images with CSS**
 
-Congratulations on completing this journey through various CSS techniques for image centering! By now, you've gained insights into different methods each offering its unique advantages. Demystifying image centering with CSS opens up a world of possibilities for creating visually appealing and well-structured web designs. Whether you're a beginner or an experienced developer, mastering these techniques empowers you to tackle diverse design challenges with confidence.
+Congratulations on completing this journey through various CSS techniques for image centering! By now, you've gained insights into different methods, each offering its unique advantages. Demystifying image centering with CSS opens up a world of possibilities for creating visually appealing and well-structured web designs. Whether you're a beginner or an experienced developer, mastering these techniques empowers you to tackle diverse design challenges with confidence.
 
 Check out [Purecode.ai](https://purecode.ai/) today, for streamlining front-end code creation.
