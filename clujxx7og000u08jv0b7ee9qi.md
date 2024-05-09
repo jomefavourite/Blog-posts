@@ -66,7 +66,7 @@ Here is a code snippet that shows how to use the text-align property:
 
 **Preview:**
 
-![](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/5d5d227d-2c26-4cc5-800d-aae89b9126ba.png align="left")
+![A woman in a yellow sweater taking a photo with a DSLR camera in a park.](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/5d5d227d-2c26-4cc5-800d-aae89b9126ba.png align="left")
 
 ### Limitation using the text-align property
 
@@ -558,20 +558,20 @@ Here's how to achieve centering an image with the position property:
 
 | **Method** | **Description** | **Advantages** | **Limitations** |
 | --- | --- | --- | --- |
-| **Using text-align Property** | Centrally aligns an image horizontally within its container using `text-align: center;`. | \- Quick and simple implementation.  
-\- Suitable for basic layouts. | \- Limited to horizontal centering. |
-| **Using Margin Property** | Uses `margin: auto;` to center an image both horizontally and vertically within its container. | \- Simple and widely supported.  
-\- Supports both horizontal and vertical centering. | \- Requires the image to be a block-level element.  
-\- Not as flexible for complex layouts. |
-| **Using Flexbox Property** | Utilizes `display: flex;` with `justify-content: center;` and `align-items: center;` for versatile horizontal and vertical centering. | \- Versatile for both horizontal and vertical centering.  
-\- Great for responsive design. | \- Single-axis limitation.  
-\- Default behavior of flex items may require additional adjustments. |
-| **Using Grid Property** | Applies `display: grid;` to create a two-dimensional layout, providing comprehensive control over image centering. | \- Excellent for complex layouts.  
-\- Precise control over alignment. | \- Learning curve for advanced features.  
-\- May require vendor prefixes for older browser compatibility. |
-| **Using Position Property** | Utilizes `position: absolute;` with `top: 50%;`, `left: 50%;`, and `transform: translate(-50%, -50%);` for precise centering of an image relative to its container. | \- Absolute precision in centering.  
-\- Suitable for unique layout requirements. | \- Requires knowledge of container dimensions.  
-\- May not be as flexible for responsive designs. |
+| **Using text-align Property** | Centrally aligns an image horizontally within its container using `text-align: center;`. | \- Quick and simple implementation. |  |
+| \- Suitable for basic layouts. | \- Limited to horizontal centering. |  |  |
+| **Using Margin Property** | Uses `margin: auto;` to center an image both horizontally and vertically within its container. | \- Simple and widely supported. |  |
+| \- Supports both horizontal and vertical centering. | \- Requires the image to be a block-level element. |  |  |
+| \- Not as flexible for complex layouts. |  |  |  |
+| **Using Flexbox Property** | Utilizes `display: flex;` with `justify-content: center;` and `align-items: center;` for versatile horizontal and vertical centering. | \- Versatile for both horizontal and vertical centering. |  |
+| \- Great for responsive design. | \- Single-axis limitation. |  |  |
+| \- Default behavior of flex items may require additional adjustments. |  |  |  |
+| **Using Grid Property** | Applies `display: grid;` to create a two-dimensional layout, providing comprehensive control over image centering. | \- Excellent for complex layouts. |  |
+| \- Precise control over alignment. | \- Learning curve for advanced features. |  |  |
+| \- May require vendor prefixes for older browser compatibility. |  |  |  |
+| **Using Position Property** | Utilizes `position: absolute;` with `top: 50%;`, `left: 50%;`, and `transform: translate(-50%, -50%);` for precise centering of an image relative to its container. | \- Absolute precision in centering. |  |
+| \- Suitable for unique layout requirements. | \- Requires knowledge of container dimensions. |  |  |
+| \- May not be as flexible for responsive designs. |  |  |  |
 
 ## Frequently Asked Questions
 
