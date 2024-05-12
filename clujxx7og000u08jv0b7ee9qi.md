@@ -1,5 +1,5 @@
 ---
-title: "How to Center Image CSS for Beautiful Web Layouts"
+title: "Easy CSS Techniques to Center Images for Enhanced Web Layouts"
 seoTitle: "How to Center Image CSS for Beautiful Web Layouts"
 seoDescription: "Learn CSS image centering techniques, including margin, flexbox, and grid, with examples. Perfect for developers"
 datePublished: Wed Apr 03 2024 15:05:50 GMT+0000 (Coordinated Universal Time)
