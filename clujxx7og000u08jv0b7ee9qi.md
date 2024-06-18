@@ -8,7 +8,7 @@ slug: how-to-center-image-css-for-beautiful-web-layouts
 canonical: https://purecode.ai/blogs/center-image-css/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712156593514/92e592c1-83ea-4c47-808a-5a727a6bd7b9.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712156612553/815c5a2c-811b-45f7-af18-1f95889ce05e.jpeg
-tags: css, vs-code, vscode-cjevho8kk00bo1ss2lmqqjr51
+tags: css
 
 ---
 
