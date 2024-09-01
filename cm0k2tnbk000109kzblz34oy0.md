@@ -23,4 +23,4 @@ saveAsDraft: true
 
 jhsds
 
-![alt text](./img.png)
+![alt text](https://resources.jetbrains.com/help/img/idea/2024.2/markdown-basics.png)
