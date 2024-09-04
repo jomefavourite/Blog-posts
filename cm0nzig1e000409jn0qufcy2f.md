@@ -1,5 +1,7 @@
 ---
 title: "Example 9"
+seoTitle: "Testing"
+seoDescription: "Hello Description"
 datePublished: Wed Sep 04 2024 14:59:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm0nzig1e000409jn0qufcy2f
 slug: example-slug9
@@ -21,5 +23,7 @@ saveAsDraft: true
 
 jhsds
 sutdysjd
+
+sdfygushkdjsd
 
 ![alt text](img.png)
