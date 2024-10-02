@@ -11,9 +11,9 @@ tags: reactjs, nextjs
 
 ---
 
-As a beginner in the web ecosystem, it could be overwhelming to learn new tools, cause there's just a lot to learn and if you've learned a tool that works why migrate to another, right?
+As a beginner in the web ecosystem, it could be overwhelming to learn new tools cause there's just a lot to learn and if you've learned a tool that works, why migrate to another, right?
 
-Well, there could be so many reasons and In this article, we'll go over 3 reasons why learning Next.js is the next best thing to do after getting the fundamentals of React.js down.
+Well, there could be so many reasons, and In this article, we'll go over 3 reasons why learning Next.js is the next best thing to do after getting the fundamentals of React.js down.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
@@ -42,13 +42,13 @@ Now, you might have questions like:
 > What does React framework mean? also,  
 > I'm still new to React, I don't want to build full-stack web applications yet 😕
 
-Next.js being a React framework, simply means there are additional features, optimizations and guidelines to follow, that make development easy compared to plain React.js, which's unopionated about routing should be done for example.
+Next.js, being a React framework, simply means there are additional features, optimizations and guidelines to follow that make development easy compared to plain React.js, which is unopinionated about how routing should be done, for example.
 
-As for building **full-stack** web applications, as a newbie you don't need to bother about that, with time and lots of practice, you'll join the train in building full-stack applications.
+As for building **full-stack** web applications, as a newbie you don't need to bother about that; with time and lots of practice, you'll join the train in building full-stack applications.
 
 ## Why learn Next.js?
 
-From the introduction of Next.js, I assume you can tell that Next.js is for building large applications, usually applications with multiple pages, with complex functionalities and not just a todo app which is usually everyone's big project learning React.
+From the introduction of Next.js, I assume you can tell that Next.js is for building large applications, usually applications with multiple pages, with complex functionalities and not just a todo app, which is usually everyone's big project learning React.
 
 > Even I built a todo app, some years ago, oh fun memories 😄.
 > 
