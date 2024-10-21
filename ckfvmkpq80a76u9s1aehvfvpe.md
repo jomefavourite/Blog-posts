@@ -19,29 +19,6 @@ Well, there is an Awesome tool I've been using called Sass (Syntactically Awesom
 
 ---
 
-## Table of Content
-
-* [What's Sass](#sass)
-    
-* [Clearing up the differences between "Sass" and "SCSS"](#clearup)
-    
-* [Variables](#variable)
-    
-* [Nesting](#nesting)
-    
-* [Parent Selector](#ref)
-    
-* [Extend / Inheritance](#extend)
-    
-* [Partials](#partials)
-    
-* [Modules](#module)
-    
-* [Mixins](#mixins)
-    
-* [How to get Sass running on Visual Studio Code](#run)
-    
-
 ## What's Sass : Syntactically Awesome Stylesheet Language
 
 Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets.
