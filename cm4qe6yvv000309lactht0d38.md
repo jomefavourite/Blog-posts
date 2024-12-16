@@ -17,11 +17,11 @@ Working at Hashnode has been nothing short of transformative, opening doors I ne
 
 ## Getting the Call - (Before Hashnode)
 
-On a faithful day, I was at a church program when I got the call from (Sam, aka Unclebigbay) asking if I would like to work at Hashnode as a Customer Success Engineer.
+On a faithful day, I was at a church program when I got the call from (@[Ayodele Samuel Adebayo](@unclebigbay) , aka Unclebigbay) asking if I would like to work at Hashnode as a Customer Success Engineer.
 
 Although I did not know much about the role at the time, I quickly jumped at the opportunity once he explained some of the responsibilities. I said yes, and that was it.
 
-On November 30th, 2023, I received a follow-up email from Sam officially introducing me to [Sandeep](https://hashnode.com/@sandeep) (*Officially because I had interacted with Sandeep casually before*). That’s how the journey began!
+On November 30th, 2023, I received a follow-up email from Samuel officially introducing me to [Sandeep](https://hashnode.com/@sandeep) (*Officially because I had interacted with Sandeep casually before*). That’s how the journey began!
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1732716515708/1bd78091-e2ad-4713-9d7d-51605fccc200.png align="center")
 
@@ -177,7 +177,7 @@ In the spirit of reading, I bought myself a new collection of books, and I’m l
 
 > The books to the left and the new one’s I got.
 
-### Other Events
+### Other Events and Highlights
 
 Here are some of the other events I was privileged to attend over the course of the year:
 
@@ -192,6 +192,8 @@ Here are some of the other events I was privileged to attend over the course of 
 * Weddings 😍
     
 * Entrepreneurship Program with Olubori Paul 🤩
+    
+* Visited Samuel's home and worked with him 🤩
     
 
 ### Dev work done at Hashnode
