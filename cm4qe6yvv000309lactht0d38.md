@@ -272,7 +272,7 @@ As much as I feel I unlocked some boxes this year, I know there are areas where 
     
 * learning more technical things so I don’t get lost and
     
-* working towards going my faith
+* working towards growing my faith
     
 
 ## Conclusion
