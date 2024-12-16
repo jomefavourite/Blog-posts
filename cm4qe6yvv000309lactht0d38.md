@@ -5,7 +5,6 @@ cuid: cm4qe6yvv000309lactht0d38
 slug: my-year-2024-milestones
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734310995984/7c66aba6-2d8f-4490-845a-2239d3f02e45.gif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734314020532/0eebba5e-d24f-438d-8077-b11607f6c49f.jpeg
-tags: career, reflection, customer-success
 
 ---
 
