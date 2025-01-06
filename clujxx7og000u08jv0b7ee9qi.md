@@ -559,7 +559,7 @@ Here's how to achieve centering an image with the position property:
 | **Method** | **Description** | **Advantages** | **Limitations** |
 | --- | --- | --- | --- |
 | **Using text-align Property** | Centrally aligns an image horizontally within its container using `text-align: center;`. | – Quick and simple implementation. |  |
-| Suitable for basic layouts. | – Limited to horizontal centering. |  |  |
+| \- Suitable for basic layouts. | – Limited to horizontal centering. |  |  |
 | **Using Margin Property** | Uses `margin: auto;` to center an image both horizontally and vertically within its container. | – Simple and widely supported. |  |
 | – Supports both horizontal and vertical centering. | – Requires the image to be a block-level element. |  |  |
 | – Not as flexible for complex layouts. |  |  |  |
